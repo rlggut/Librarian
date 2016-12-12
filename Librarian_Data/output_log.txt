@@ -1,0 +1,71 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 710M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2560 -> priority: 1 
+  Thread -> id: 19ec -> priority: 1 
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 710M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1995 MB
+UnloadTime: 0.418460 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 0.185204 ms (FindLiveObjects: 0.036854 ms CreateObjectMapping: 0.047117 ms MarkObjects: 0.089570 ms  DeleteObjects: 0.011196 ms)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ГР\Desktop\Ld37\Librarian_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.374608 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1388.
+Total: 0.272442 ms (FindLiveObjects: 0.062512 ms CreateObjectMapping: 0.028457 ms MarkObjects: 0.166077 ms  DeleteObjects: 0.014461 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.434987 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.176807 ms (FindLiveObjects: 0.031722 ms CreateObjectMapping: 0.016794 ms MarkObjects: 0.072775 ms  DeleteObjects: 0.055048 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357813 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1388.
+Total: 0.242119 ms (FindLiveObjects: 0.055048 ms CreateObjectMapping: 0.023792 ms MarkObjects: 0.149749 ms  DeleteObjects: 0.013062 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.515227 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.320492 ms (FindLiveObjects: 0.035921 ms CreateObjectMapping: 0.038720 ms MarkObjects: 0.132489 ms  DeleteObjects: 0.111962 ms)
+
